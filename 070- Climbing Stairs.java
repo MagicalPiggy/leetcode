@@ -84,15 +84,20 @@ public int climbStairs(int n) {
     if(n == 1) return 1;
     if(n == 2) return 2;
     
-    int one_step_before = 2;
-    int two_steps_before = 1;
+
+    int pre1 = 2;//当前阶的前1阶的走法数（当前阶从n=3开始算）
+    int pre2 = 1;//当前阶的前2阶的走法数
     int all_ways = 0;
     
     for(int i=2; i<n; i++){
-    	all_ways = one_step_before + two_steps_before;
-    	two_steps_before = one_step_before;
-        one_step_before = all_ways;
+    	all_ways = pre1 + pre2;//当前阶的走法==前1阶+前2阶
+
+    	//以下为之后的计算做准备，也就是状态转移
+    	//当计算下1阶的走法时，该问题的前2阶就是本次循环中的前1阶
+    	//而该问题的前1阶就是本次循环中的当前阶
+    	pre2 = pre1;
+        pre1 = all_ways;
     }
     return all_ways;
-}
+ }
 }
