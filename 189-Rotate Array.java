@@ -26,16 +26,14 @@ class Solution {
     public void rotate(int[] nums, int k) {
         
         k = k%nums.length;//k比数组长度大的情况，每nums.length次循环后数组还原，所以有效的k应该是k%nums.length
-        
-        
+              
         reverse(nums, nums.length-k, nums.length-1);
         reverse(nums, 0, nums.length-k-1);
         reverse(nums, 0, nums.length-1);
     }
 
     public void reverse(int[] nums, int start, int end){//用来反转数组中指定的一段
-    	for( int temp; start < end ; start++,end--){
-    		
+    	for( int temp; start < end ; start++,end--){   		
     		temp = nums[end];
     		nums[end] = nums[start];
     		nums[start] = temp;
