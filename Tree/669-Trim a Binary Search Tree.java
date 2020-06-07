@@ -34,7 +34,24 @@ Example 2:
 	  /
 	 1
 
+class Solution {
+    public TreeNode trimBST(TreeNode root, int L, int R) {
+    	check(root, L, R);
+    	return root;
+    }
 
+    private void check(TreeNode root, int L, int R) {
+    	if (root == null) return;
+
+		if (root.val < L)  check(root.right, L, R);
+		if (root.val > R)  check(root.left, L, R);
+		
+
+			check(root.left, L, R); 
+			check(root.right, L, R); 
+
+    }
+}
 
 class Solution {
     public TreeNode trimBST(TreeNode root, int L, int R) {
