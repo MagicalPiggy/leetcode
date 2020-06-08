@@ -30,6 +30,7 @@ class Solution {
 	    list.add(new ArrayList<>(tempList));
 	    
 	    for(int i = start; i < nums.length; i++){
+	    	
 	        tempList.add(nums[i]);
 	        
 	        backtrack(list, tempList, nums, i + 1);

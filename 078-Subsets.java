@@ -26,7 +26,7 @@ class Solution {
 	}
 
 	private void backtrack(List<List<Integer>> list , List<Integer> tempList, int [] nums, int start){
-	    list.add(new ArrayList<>(tempList));
+	    list.add(new ArrayList<>(tempList));//把子数组添加到最终结果集中
 	    
 	    for(int i = start; i < nums.length; i++){
 	        tempList.add(nums[i]);
