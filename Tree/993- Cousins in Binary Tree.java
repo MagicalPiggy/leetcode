@@ -23,6 +23,7 @@ Return true if and only if the nodes corresponding to the values x and y are cou
  */
 class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
+    	if (root == null) return false;
         Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
         while(!queue.isEmpty()) {
@@ -46,3 +47,4 @@ class Solution {
         return false;
     }
 }
+
