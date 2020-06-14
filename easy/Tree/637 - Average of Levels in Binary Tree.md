@@ -1,32 +1,15 @@
+# 题目描述
 Given a non-empty binary tree, return the average value of the nodes on each level in the form of an array.
-Example 1:
-Input:
-    3
-   / \
-  9  20
-    /  \
-   15   7
-Output: [3, 14.5, 11]
-Explanation:
-The average value of nodes on level 0 is 3,  on level 1 is 14.5, and on level 2 is 11. Hence return [3, 14.5, 11].
-Note:
-The range of node's value is in the range of 32-bit signed integer.
 
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200607113942374.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+# 思路
+采用层序遍历，参考[leetcode-559](https://blog.csdn.net/z714405489/article/details/106495173)。
+采用**队列**，当同一层节点全部出队后计算平均值。
+注意求和要使用double类型的变量来记录。
+
+## 代码
+
+```java
 class Solution {
     public List<Double> averageOfLevels(TreeNode root) {
         List<Double> list = new ArrayList<>();
@@ -48,3 +31,5 @@ class Solution {
         return list;
     }
 }
+```
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200607114220950.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
