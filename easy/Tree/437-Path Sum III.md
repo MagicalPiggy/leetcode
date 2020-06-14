@@ -5,7 +5,7 @@
 
 路径不需要从根节点开始，也不需要在叶子节点结束，但是路径方向必须是向下的（只能从父节点到子节点）。
 
-二叉树不超过1000个节点，且节点数值范围是 [-1000000,1000000] 的整数。
+二叉树不超过1000个节点，且节点数值范围是 [-1000000,1000000] 的整数。 
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020061323350758.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
 # 思路1：DFS
