@@ -50,4 +50,12 @@
 ### 	[2.medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
     * [1379 - 找出克隆二叉树中相同节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1379%20-%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)
+    * [1302 - 层数最深叶子节点的和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1302%20-%20Deepest%20Leaves%20Sum.md)
 
+### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
+* #### 4.1 [String]
+	* [面试题58 - II. 左旋转字符串](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9858%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+* #### 4.2 [LinkedList]
+	* [面试题22 - 链表中倒数第k个节点](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9822%20-%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+* #### 4.3 [Tree]
+	* [面试题55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9855%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
