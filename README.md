@@ -55,8 +55,10 @@
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
-	* [58 - II. 左旋转字符串](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9858%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+	* [58 - II. 左旋转字符串](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/58%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * #### 4.2 [LinkedList]
-	* [22 - 链表中倒数第k个节点](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9822%20-%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
+	* [22 - 链表中倒数第k个节点](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/22%20-%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
 * #### 4.3 [Tree]
-	* [55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/%E9%9D%A2%E8%AF%95%E9%A2%9855%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
+	* [27 - 二叉树的镜像](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/27%20-%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
+	* [55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/55%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
+
