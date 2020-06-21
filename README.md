@@ -55,6 +55,7 @@
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
+	* [17 - 打印从1到最大的n位数](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/17%20-%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md)
 	* [58 - II. 左旋转字符串](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/58%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * #### 4.2 [LinkedList]
 	* [22 - 链表中倒数第k个节点](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/22%20-%20%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E8%8A%82%E7%82%B9.md)
