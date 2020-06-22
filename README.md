@@ -32,7 +32,7 @@
     * [559 - N叉树的最大深度](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/559%20-%20Maximum%20Depth%20of%20N-ary%20Tree.md)
     * [563 - 二叉树的坡度](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/563%20-%20Binary%20Tree%20Tilt.md)
     * [572 - 另一棵树的子树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/572%20-%20Subtree%20of%20Another%20Tree.md)
-    * [589、590 - N叉树的遍历](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/589%26590%20-%20N-ary%20Tree%20%20Traversal.md)
+    * [589、590 - N叉树的前序与后序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/589%26590%20-%20N-ary%20Tree%20%20Traversal.md)
     * [606 - 根据二叉树创建字符串](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/606%20-%20Construct%20String%20from%20Binary%20Tree.md)
     * [617 - 合并二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/617-Merge%20Two%20Binary%20Trees.md)
     * [637 - 二叉树的层平均值](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/637%20-%20Average%20of%20Levels%20in%20Binary%20Tree.md)
@@ -49,6 +49,8 @@
 
 ### 	[2.medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
+	* [94 - 二叉树的中序遍历]
+(https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/94%20-%20Binary%20Tree%20Inorder%20Traversal.md)
     * [1302 - 层数最深叶子节点的和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1302%20-%20Deepest%20Leaves%20Sum.md)
     * [1315 - 祖父节点值为偶数的节点和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1315%20-%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
 	* [1379 - 找出克隆二叉树中相同节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1379%20-%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)
