@@ -15,7 +15,7 @@
 * #### 1.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Tree)
     * [100 - 相同的树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/100%20-%20Same%20Tree.md)
     * [101 - 对称二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/101%20-%20Symmetric%20Tree.md)
-    * [1022 - 从根到叶的二进制数之和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/1022%20-%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
+    * [104 - 二叉树的最大深度](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/104%20-%20Maximum%20Depth%20of%20Binary%20Tree.md)
     * [107 - 二叉树的层次遍历 II](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/107%20-%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
     * [108 - 将有序数组转换为二叉搜索树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/108%20-%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
     * [110 - 平衡二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/110%20-%20Balanced%20Binary%20Tree.md)
@@ -47,6 +47,7 @@
     * [938 - 二叉搜索树的范围和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/938-Range%20Sum%20of%20BST.md)
     * [965 - 单值二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/965%20-%20Univalued%20Binary%20Tree.md)
     * [993 - 二叉树的堂兄弟节点](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/993%20-%20Cousins%20in%20Binary%20Tree.md)
+    * [1022 - 从根到叶的二进制数之和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/1022%20-%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
 
 ### 	[2.medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
