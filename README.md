@@ -52,6 +52,7 @@
 ### 	[2.medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
 	* [94 - 二叉树的中序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/94%20-%20Binary%20Tree%20Inorder%20Traversal.md)
+	* [102 - 二叉树的层序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/102%20-%20Binary%20Tree%20Level%20Order%20Traversal.md)
 	* [144 - 二叉树的前序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/144%20-%20Binary%20Tree%20Preorder%20Traversal.md)
 	* [429 - N叉树的层序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.md)
 	* [987 - 二叉树的垂序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/987%20-%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
