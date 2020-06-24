@@ -59,6 +59,7 @@
 	* [987 - 二叉树的垂序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/987%20-%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
 	* [1302 - 层数最深叶子节点的和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1302%20-%20Deepest%20Leaves%20Sum.md)
 	* [1315 - 祖父节点值为偶数的节点和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1315%20-%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
+	* [1325 - 删除给定值的叶子节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1325%20-%20Delete%20Leaves%20With%20a%20Given%20Value.md)
 	* [1379 - 找出克隆二叉树中相同节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1379%20-%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
