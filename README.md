@@ -56,6 +56,7 @@
 	* [113 - 路径总和 II](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/113%20-%20Path%20Sum%20II.md)
 	* [129 - 求根到叶子节点数字之和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/129%20-%20Sum%20Root%20to%20Leaf%20Numbers.md)
 	* [144 - 二叉树的前序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/144%20-%20Binary%20Tree%20Preorder%20Traversal.md)
+	* [236 - 二叉树的最近公共祖先](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/236%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 	* [429 - N叉树的层序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.md)
 	* [814 - 二叉树剪枝](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/814%20-%20Binary%20Tree%20Pruning.md)
 	* [987 - 二叉树的垂序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/987%20-%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
