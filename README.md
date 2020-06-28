@@ -11,7 +11,7 @@
 
 ## 目录
 
-### 	[1.easy](https://github.com/MagicalPiggy/leetcode/tree/master/easy)
+### 	[1.Easy](https://github.com/MagicalPiggy/leetcode/tree/master/easy)
 * #### 1.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Tree)
     * [100 - 相同的树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/100%20-%20Same%20Tree.md)
     * [101 - 对称二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/101%20-%20Symmetric%20Tree.md)
@@ -49,7 +49,7 @@
     * [993 - 二叉树的堂兄弟节点](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/993%20-%20Cousins%20in%20Binary%20Tree.md)
     * [1022 - 从根到叶的二进制数之和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/1022%20-%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
 
-### 	[2.medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
+### 	[2.Medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
 	* [94 - 二叉树的中序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/94%20-%20Binary%20Tree%20Inorder%20Traversal.md)
 	* [102 - 二叉树的层序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/102%20-%20Binary%20Tree%20Level%20Order%20Traversal.md)
@@ -64,6 +64,10 @@
 	* [1315 - 祖父节点值为偶数的节点和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1315%20-%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
 	* [1325 - 删除给定值的叶子节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1325%20-%20Delete%20Leaves%20With%20a%20Given%20Value.md)
 	* [1379 - 找出克隆二叉树中相同节点](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1379%20-%20Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.md)
+
+### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
+* #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
+	* [145 - 二叉树的后序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/145%20-%20Binary%20Tree%20Postorder%20Traversal.md)
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
