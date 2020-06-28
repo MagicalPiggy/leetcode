@@ -68,6 +68,7 @@
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
 * #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
 	* [145 - 二叉树的后序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/145%20-%20Binary%20Tree%20Postorder%20Traversal.md)
+	* [297 - 二叉树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/297%20-%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
