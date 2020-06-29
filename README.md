@@ -58,6 +58,7 @@
 	* [144 - 二叉树的前序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/144%20-%20Binary%20Tree%20Preorder%20Traversal.md)
 	* [236 - 二叉树的最近公共祖先](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/236%20-%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md)
 	* [429 - N叉树的层序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/429%20-%20N-ary%20Tree%20Level%20Order%20Traversal.md)
+	* [449 - 二叉树搜索树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/449%20-%20Serialize%20and%20Deserialize%20BST.md)
 	* [814 - 二叉树剪枝](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/814%20-%20Binary%20Tree%20Pruning.md)
 	* [987 - 二叉树的垂序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/987%20-%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
 	* [1302 - 层数最深叶子节点的和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1302%20-%20Deepest%20Leaves%20Sum.md)
