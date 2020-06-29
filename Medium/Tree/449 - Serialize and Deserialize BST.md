@@ -8,7 +8,7 @@
 注意：不要使用类成员/全局/静态变量来存储状态。 你的序列化和反序列化算法应该是无状态的。
 
 # 思路
-参考[leetcode-297 Serialize and Deserialize Binary Tree （二叉树的序列化与反序列化）](https://blog.csdn.net/z714405489/article/details/107008798)。
+参考[297 - 二叉树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/297%20-%20Serialize%20and%20Deserialize%20Binary%20Tree.md)。
 该题的解法是对于所有二叉树一般化的解法，可以直接套用在本题，因为二叉搜索树是一种特殊的二叉树。
 
 那么如何利用二叉搜索树的性质，对一般化的解法进行优化呢？
