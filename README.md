@@ -64,6 +64,7 @@
 	* [449 - 二叉树搜索树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/449%20-%20Serialize%20and%20Deserialize%20BST.md)
 	* [508 - 出现次数最多的子树元素和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/508%20-%20Most%20Frequent%20Subtree%20Sum.md)
 	* [814 - 二叉树剪枝](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/814%20-%20Binary%20Tree%20Pruning.md)
+	* [979 - 在二叉树中分配硬币](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/979%20-%20Distribute%20Coins%20in%20Binary%20Tree.md)
 	* [987 - 二叉树的垂序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/987%20-%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md)
 	* [1302 - 层数最深叶子节点的和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1302%20-%20Deepest%20Leaves%20Sum.md)
 	* [1315 - 祖父节点值为偶数的节点和](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/1315%20-%20Sum%20of%20Nodes%20with%20Even-Valued%20Grandparent.md)
