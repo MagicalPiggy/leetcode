@@ -1,15 +1,17 @@
 ## 仓库简介
 
-​	这是一个记录自己练习**算法**题的仓库。把自己所有做过的算法题都总结到这个仓库里。
-​	
-​	在常规目录中，一级目录按难度分为easy/medium/hard，二级目录按照leetcode上的Tag分，三级目录为题目名字（超链接到本仓库的题解）。每题都附上java源代码，对题的解答与思考，部分配上图例。
+这是一个记录自己练习**算法**题的仓库。把自己所有做过的算法题都总结到这个仓库里。
+每题都附上java源代码，对题的解答与思考，部分配上图例。
+	
+在常规目录中，一级目录按难度分为easy/medium/hard，二级目录按照leetcode上的Tag分，三级目录为题目名字（超链接到本仓库的题解）。
+
+这里也包含《剑指offer》的题解。
+
+除了常规目录，还有高频目录、细分目录，以及心得总结，见后文。
 
 
-​	这里也包含《剑指offer》的题解。
 
-
-
-## 目录
+## 常规目录
 
 ### 	[1.Easy](https://github.com/MagicalPiggy/leetcode/tree/master/easy)
 * #### 1.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Tree)
@@ -89,3 +91,12 @@
 	* [27 - 二叉树的镜像](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/27%20-%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 	* [55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/55%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
 
+## 高频目录
+超链接指向的目录，包含具体的一类题目（比如树、链表），该类下的题目将按出现频率进行排序。
+出现频率是由LeetCode官方提供的数据。
+
+## 细分目录
+超链接指向的目录，包含具体的一类题目（比如树、链表），并且按照我整理的细分类型进行划分（比如求深度、求路径等等）。
+
+## 心得总结
+各种类型题目的总结。
