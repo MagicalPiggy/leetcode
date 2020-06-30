@@ -21,6 +21,17 @@
 递归算法就不贴了，是树的题目的基础算法。
 至于迭代算法，参考[leetcode-589、590 N-ary Tree Traversal（N叉树遍历）](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/589%26590%20-%20N-ary%20Tree%20%20Traversal.md)中的“N叉树的后序遍历”，换成二叉树的版本，思路是一样的。
 
+
+
+树的后序遍历（下图的蓝色箭头） = 树的**镜像**的前序遍历 (下图的红色箭头) 的**逆** 。
+二叉树是一种特定的树，当然也符合这个结论。
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200630142813167.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+我们知道了二叉树前序遍历的迭代解法，就是借助栈，某节点出栈时，<font color=red> 从右到左 </font>将此节点的孩子入栈。
+现在变成了<font color=red> 镜像问题 </font>，那么出栈时，<font color=red> 从左到右 </font> 将节点的孩子入栈，最后需要求逆，将结果集进行一次翻转就能得到正确结果了。
+
+
+
 在最后反转ArrayList的代码：
 
 ```java
