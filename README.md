@@ -95,6 +95,9 @@
 超链接指向的目录，包含具体的一类题目（比如树、链表），该类下的题目将按出现频率进行排序。
 出现频率是由LeetCode官方提供的数据。
 
+ * [Tree](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Tree.md)
+
+
 ## 细分目录
 超链接指向的目录，包含具体的一类题目（比如树、链表），并且按照我整理的细分类型进行划分（比如求深度、求路径等等）。
 
