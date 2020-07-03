@@ -50,7 +50,9 @@
     * [965 - 单值二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/965%20-%20Univalued%20Binary%20Tree.md)
     * [993 - 二叉树的堂兄弟节点](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/993%20-%20Cousins%20in%20Binary%20Tree.md)
     * [1022 - 从根到叶的二进制数之和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/1022%20-%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.md)
-* #### 1.2  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP)
+* #### 1.2  [Linked List](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Linked%20List)
+	* [206 - 反转链表](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Linked%20List/206%20-%20Reverse%20Linked%20List.md)
+* #### 1.3  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP)
 	* [198 - 打家劫舍](https://github.com/MagicalPiggy/leetcode/blob/master/easy/DP/198%20-%20House%20Robber.md)
 
 ### 	[2.Medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
