@@ -96,10 +96,11 @@
 	* [55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/55%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
 
 ## 高频目录
-超链接指向的目录，包含具体的一类题目（比如树、链表），该类下的题目将按出现频率进行排序。
+超链接指向的目录，包含具体的一类题目（比如树、链表），该类下的题目将按出现**频率**进行排序。
 出现频率是由LeetCode官方提供的数据。
 
  * [Tree](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Tree.md)
+ * [Linked List](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Linked%20List.md)
 
 
 ## 细分目录
