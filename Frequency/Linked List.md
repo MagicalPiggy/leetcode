@@ -6,4 +6,5 @@
 
 - [206 - 反转链表  (100)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/LinkedList/206%20-%20Reverse%20Linked%20List.md)
 - [92 - 反转链表II (99)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/92%20-%20Reverse%20Linked%20List%20II.md)
+- [2 - 两数相加 (97)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/2%20-%20Add%20Two%20Numbers.md)
 
