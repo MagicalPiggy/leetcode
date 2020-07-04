@@ -4,4 +4,5 @@
 
 
 
-- [206 - 反转链表  (100)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Linked%20List/206%20-%20Reverse%20Linked%20List.md)
+- [206 - 反转链表  (100)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/LinkedList/206%20-%20Reverse%20Linked%20List.md)
+
