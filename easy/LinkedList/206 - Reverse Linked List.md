@@ -78,3 +78,74 @@ class Solution {
 执行用时：
 0 ms, 在所有 Java 提交中击败了100.00%的用户
 内存消耗：40.1 MB, 在所有 Java 提交中击败了5.06%的用户
+
+# 递归法再梳理
+看了大佬@labuladong的题解，发现自己对递归的理解还是太肤浅了。
+**用递归处理的技巧是：不要跳进递归，而是利用明确的定义来实现算法逻辑。**
+上文对递归算法的解释就是跳进了递归，其实并不是太直观，而且人脑压栈确实比较吃力。
+下面转载大佬的题解。
+[原文链接](https://leetcode-cn.com/problems/reverse-linked-list-ii/solution/bu-bu-chai-jie-ru-he-di-gui-di-fan-zhuan-lian-biao/)
+
+递归反转整个链表，这个算法可能很多读者都听说过，这里详细介绍一下，先直接看实现代码：
+
+```java
+ListNode reverse(ListNode head) {
+    if (head.next == null) return head;
+    ListNode last = reverse(head.next);
+    head.next.next = head;
+    head.next = null;
+    return last;
+}
+```
+
+看起来是不是感觉不知所云，完全不能理解这样为什么能够反转链表？这就对了，这个算法常常拿来显示递归的巧妙和优美，我们下面来详细解释一下这段代码。
+
+**对于递归算法，最重要的就是明确递归函数的定义**。具体来说，我们的 reverse 函数定义是这样的：
+
+**输入一个节点 head，将「以 head 为起点」的链表反转，并返回反转之后的头结点**。
+
+明白了函数的定义，在来看这个问题。比如说我们想反转这个链表：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704133812167.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+那么输入 reverse(head) 后，会在这里进行递归：
+
+```java
+ListNode last = reverse(head.next);
+```
+**不要跳进递归**（你的脑袋能压几个栈呀？），而是要根据刚才的函数定义，来弄清楚这段代码会产生什么结果：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704134046828.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+这个 **reverse(head.next)** 执行完成后，整个链表就成了这样：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704134114390.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+并且根据函数定义，reverse 函数会返回反转之后的头结点，我们用变量 last 接收了。
+
+现在再来看下面的代码：
+
+```java
+head.next.next = head;
+```
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020070413415055.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+接下来：
+
+```java
+head.next = null;
+return last;
+```
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200704134212934.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3o3MTQ0MDU0ODk=,size_16,color_FFFFFF,t_70)
+神不神奇，这样整个链表就反转过来了！递归代码就是这么简洁优雅，不过其中有两个地方需要注意：
+
+1、递归函数要有 base case，也就是这句：
+
+
+```java
+if (head.next == null) return head;
+```
+
+意思是如果链表只有一个节点的时候反转也是它自己，直接返回即可。
+
+2、当链表递归反转之后，新的头结点是 last，而之前的 head 变成了最后一个节点，别忘了链表的末尾要指向 null：
+
+```java
+
+head.next = null;
+```
