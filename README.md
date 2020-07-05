@@ -88,6 +88,9 @@
 	* [145 - 二叉树的后序遍历](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/145%20-%20Binary%20Tree%20Postorder%20Traversal.md)
 	* [297 - 二叉树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/297%20-%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 	* [968 - 监控二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/968%20-%20Binary%20Tree%20Cameras.md)
+* #### 3.2  [LinkedList](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/LinkedList)
+	* [25 - K 个一组翻转链表](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/25%20-%20Reverse%20Nodes%20in%20k-Group.md)
+
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
