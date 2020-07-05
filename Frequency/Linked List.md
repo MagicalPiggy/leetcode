@@ -8,4 +8,5 @@
 - [92 - 反转链表II (99)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/92%20-%20Reverse%20Linked%20List%20II.md)
 - [2 - 两数相加 (97)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/2%20-%20Add%20Two%20Numbers.md)
 - [25 - K 个一组翻转链表 (96)](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/25%20-%20Reverse%20Nodes%20in%20k-Group.md)
+- [21 - 合并两个有序链表 (95)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/LinkedList/21%20-%20Merge%20Two%20Sorted%20Lists.md)
 
