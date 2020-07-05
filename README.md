@@ -81,6 +81,7 @@
 * #### 2.2  [LinkedList](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/LinkedList) 
 	* [2 - 两数相加](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/2%20-%20Add%20Two%20Numbers.md)
 	* [92 - 反转链表II](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/92%20-%20Reverse%20Linked%20List%20II.md)
+	* [143 - 重排链表](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/143%20-%20Reorder%20List.md)
 * #### 2.3  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP) 
 	* [337 - 打家劫舍 III](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/337%20-%20House%20Robber%20III.md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
