@@ -91,6 +91,7 @@
 	* [297 - 二叉树的序列化与反序列化](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/297%20-%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 	* [968 - 监控二叉树](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/968%20-%20Binary%20Tree%20Cameras.md)
 * #### 3.2  [LinkedList](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/LinkedList)
+	* [23 - 合并K个排序链表](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/23%20-%20Merge%20k%20Sorted%20Lists.md)
 	* [25 - K 个一组翻转链表](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/25%20-%20Reverse%20Nodes%20in%20k-Group.md)
 
 
