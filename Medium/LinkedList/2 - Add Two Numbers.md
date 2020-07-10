@@ -58,3 +58,35 @@ class Solution {
 
 执行用时：2 ms, 在所有 Java 提交中击败了99.85%的用户
 内存消耗：40.1 MB, 在所有 Java 提交中击败了93.78%的用户
+
+优化一下使得代码更精简：
+
+```java
+class Solution {
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    	// 链表构造过程需要指针移动，因此需要一个预先节点来返回链表
+        ListNode pre = new ListNode(0);
+        ListNode cur = pre;
+        int carry = 0;
+        while(l1 != null || l2 != null || carry > 0) {
+        	int sum = carry;
+        	// 短的链表补0
+            sum += l1 == null ? 0 : l1.val;
+            sum += l2 == null ? 0 : l2.val;
+            
+            cur.next = new ListNode(sum % 10);
+
+            cur = cur.next;
+            if(l1 != null)
+                l1 = l1.next;
+            if(l2 != null)
+                l2 = l2.next;
+
+            // 进位
+            carry = sum / 10;
+        }
+
+        return pre.next;
+    }
+}
+```
