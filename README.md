@@ -53,9 +53,12 @@
 * #### 1.2  [LinkedList](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Linked%20List)
 	* [21 - 合并两个有序链表](https://github.com/MagicalPiggy/leetcode/blob/master/easy/LinkedList/21%20-%20Merge%20Two%20Sorted%20Lists.md)
 	* [206 - 反转链表](https://github.com/MagicalPiggy/leetcode/blob/master/easy/LinkedList/206%20-%20Reverse%20Linked%20List.md)
-* #### 1.3  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP)
+* #### 1.3  [Array](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Array)
+	* [1 - 两数之和](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Array/1%20-%20Two%20Sum.md)
+
+* #### 1.4  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP)
 	* [198 - 打家劫舍](https://github.com/MagicalPiggy/leetcode/blob/master/easy/DP/198%20-%20House%20Robber.md)
-* #### 1.4  [BitOperation](https://github.com/MagicalPiggy/leetcode/tree/master/easy/BitOperation)
+* #### 1.5  [BitOperation](https://github.com/MagicalPiggy/leetcode/tree/master/easy/BitOperation)
 	* [191 - 位1的个数](https://github.com/MagicalPiggy/leetcode/blob/master/easy/BitOperation/191%20-%20Number%20of%201%20Bits.md)
 
 ### 	[2.Medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)

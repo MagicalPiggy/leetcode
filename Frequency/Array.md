@@ -5,4 +5,5 @@
 
 
 - 768 - 最多能完成排序的块 2 (100)
--  1 - 两数之和 (99)
+-  [1 - 两数之和 (99)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Array/1%20-%20Two%20Sum.md)
+
