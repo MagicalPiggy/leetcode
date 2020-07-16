@@ -117,6 +117,7 @@
 
  * [Tree](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Tree.md)
  * [Linked List](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Linked%20List.md)
+ * [Array](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Array.md)
 
 
 ## 细分目录
