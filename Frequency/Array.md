@@ -6,4 +6,5 @@
 
 - 768 - 最多能完成排序的块 2 (100)
 -  [1 - 两数之和 (99)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Array/1%20-%20Two%20Sum.md)
+-  [945 - 使数组唯一的最小增量 (98)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/945%20-%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
 
