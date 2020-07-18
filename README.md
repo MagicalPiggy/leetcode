@@ -102,6 +102,7 @@
 	* [23 - 合并K个排序链表](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/23%20-%20Merge%20k%20Sorted%20Lists.md)
 	* [25 - K 个一组翻转链表](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/LinkedList/25%20-%20Reverse%20Nodes%20in%20k-Group.md)
 * #### 3.3  [Array](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Array) 
+	* [4 - 寻找两个正序数组的中位数](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/4%20-%20Median%20of%20Two%20Sorted%20Arrays.md) 
 	* [42 - 接雨水](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/42%20-%20Trapping%20Rain%20Water.md)
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
