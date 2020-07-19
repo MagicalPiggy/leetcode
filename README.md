@@ -90,6 +90,7 @@
 	* [445 - 两数相加 II](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/445%20-%20Add%20Two%20Numbers%20II.md)
 * #### 2.3  [Array](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Array) 
 	* [945 - 使数组唯一的最小增量](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/945%20-%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
+	* [1014 - 最佳观光组合](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/1014%20-%20Best%20Sightseeing%20Pair.md)
 * #### 2.4  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP) 
 	* [337 - 打家劫舍 III](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/337%20-%20House%20Robber%20III.md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)

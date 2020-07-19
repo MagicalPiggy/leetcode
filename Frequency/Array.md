@@ -9,4 +9,4 @@
 -  [945 - 使数组唯一的最小增量 (98)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/945%20-%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
 -  [42 - 接雨水 (97)](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/42%20-%20Trapping%20Rain%20Water.md)
 -  [4 - 寻找两个正序数组的中位数 (96)](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/4%20-%20Median%20of%20Two%20Sorted%20Arrays.md) 
-
+-  [1014 - 最佳观光组合 (95)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/1014%20-%20Best%20Sightseeing%20Pair.md)
