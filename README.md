@@ -105,6 +105,7 @@
 * #### 3.3  [Array](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Array) 
 	* [4 - 寻找两个正序数组的中位数](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/4%20-%20Median%20of%20Two%20Sorted%20Arrays.md) 
 	* [42 - 接雨水](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/42%20-%20Trapping%20Rain%20Water.md)
+	* [84 - 柱状图中最大的矩形](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Array/84%20-%20Largest%20Rectangle%20in%20Histogram.md)
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
