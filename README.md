@@ -5,7 +5,7 @@
 	
 在常规目录中，一级目录按难度分为easy/medium/hard，二级目录按照leetcode上的Tag分，三级目录为题目名字（超链接到本仓库的题解）。
 
-这里也包含《剑指offer》的题解。
+这里也包含《剑指offer》的题解，以及一些其他的面试题。
 
 除了常规目录，还有高频目录、细分目录，以及心得总结，见后文。
 
@@ -118,7 +118,12 @@
 	* [27 - 二叉树的镜像](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/27%20-%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.md)
 	* [55 - I. 二叉树的深度](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/55%20-%20I.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.md)
 
+### 	[5.Other](https://github.com/MagicalPiggy/leetcode/tree/master/Other)
+* #### 5.1 [String]
+	* [1 - 2的N次方](https://github.com/MagicalPiggy/leetcode/blob/master/Other/PowOf2.md)
+
 ## 高频目录
+
 超链接指向的目录，包含具体的一类题目（比如树、链表），该类下的题目将按出现**频率**进行排序。
 出现频率是由LeetCode官方提供的数据。
 
