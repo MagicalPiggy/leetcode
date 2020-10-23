@@ -110,6 +110,7 @@
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
+	* [8 - 字符串转换整数 (atoi)](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/8%20-%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md)
 	* [17 - 打印从1到最大的n位数](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/17%20-%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.md)
 	* [58 - II. 左旋转字符串](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/58%20-%20II.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 * #### 4.2 [LinkedList]
