@@ -25,4 +25,12 @@
 * 114 - 二叉树展开为链表 (82)
 * 105 - 从前序与中序遍历序列构造二叉树 (81)
 * [101 - 对称二叉树 (80)]([https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/101%20-%20Symmetric%20Tree.md](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/101 - Symmetric Tree.md))
+* [96 - 不同的二叉搜索树 (79)]
+* [606 - 根据二叉树创建字符串 (78)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/606%20-%20Construct%20String%20from%20Binary%20Tree.md)
+* [655 - 输出二叉树 (77)]
+* [606 - 根据二叉树创建字符串 (76)]
+* [988 - 从叶节点开始的最小字符串 (75)]
+* [450 - 删除二叉搜索树中的节点 (74)]
+* [654 - 最大二叉树 (74)]
+* [104 - 二叉树的最大深度(73)](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Tree/104%20-%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
