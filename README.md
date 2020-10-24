@@ -93,6 +93,8 @@
 	* [1014 - 最佳观光组合](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/1014%20-%20Best%20Sightseeing%20Pair.md)
 * #### 2.4  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP) 
 	* [337 - 打家劫舍 III](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/337%20-%20House%20Robber%20III.md)
+* #### 2.5  [Math](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Math) 
+	* [50 - Pow(x, n)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Math/50%20-%20Pow(x%2C%20n).md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
 * #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
 	* [124 - 二叉树中的最大路径和](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/124%20-%20Binary%20Tree%20Maximum%20Path%20Sum.md)
@@ -131,6 +133,7 @@
  * [Tree](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Tree.md)
  * [Linked List](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Linked%20List.md)
  * [Array](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Array.md)
+ * [Math](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Math.md)
 
 
 ## 细分目录
