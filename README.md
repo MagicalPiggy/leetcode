@@ -92,9 +92,12 @@
 	* [945 - 使数组唯一的最小增量](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/945%20-%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
 	* [1014 - 最佳观光组合](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/1014%20-%20Best%20Sightseeing%20Pair.md)
 * #### 2.4  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP) 
+	* [5 - 最长回文子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/5%20-%20Longest%20Palindromic%20Substring.md)
 	* [337 - 打家劫舍 III](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Tree/337%20-%20House%20Robber%20III.md)
 * #### 2.5  [Math](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Math) 
 	* [50 - Pow(x, n)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Math/50%20-%20Pow(x%2C%20n).md)
+* #### 2.6  [String](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/String) 
+	* [5 - 最长回文子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/5%20-%20Longest%20Palindromic%20Substring.md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
 * #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
 	* [124 - 二叉树中的最大路径和](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/Tree/124%20-%20Binary%20Tree%20Maximum%20Path%20Sum.md)
@@ -134,6 +137,7 @@
  * [Linked List](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Linked%20List.md)
  * [Array](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Array.md)
  * [Math](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/Math.md)
+ * [String](https://github.com/MagicalPiggy/leetcode/blob/master/Frequency/String.md)
 
 
 ## 细分目录
