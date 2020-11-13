@@ -97,6 +97,7 @@
 * #### 2.5  [Math](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Math) 
 	* [50 - Pow(x, n)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Math/50%20-%20Pow(x%2C%20n).md)
 * #### 2.6  [String](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/String) 
+	* [3 - 无重复字符的最长子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/3%20-%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 	* [5 - 最长回文子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/5%20-%20Longest%20Palindromic%20Substring.md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
 * #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
