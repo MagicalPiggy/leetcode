@@ -152,3 +152,4 @@
 
 ## 心得总结
 各种类型题目的总结。
+ * [String - 滑动窗口算法](https://github.com/MagicalPiggy/leetcode/blob/master/Skill/slidingWindow.md)
