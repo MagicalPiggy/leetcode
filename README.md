@@ -99,6 +99,7 @@
 * #### 2.6  [String](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/String) 
 	* [3 - 无重复字符的最长子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/3%20-%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 	* [5 - 最长回文子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/5%20-%20Longest%20Palindromic%20Substring.md)
+	* [8 - 字符串转换整数 (atoi)](https://github.com/MagicalPiggy/leetcode/blob/master/SwordToOffer/8%20-%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md)
 	* [567 - 字符串的排列](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/567%20-%20Permutation%20in%20String.md)
 ### 	[3.Hard](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/)
 * #### 3.1  [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/Tree)
