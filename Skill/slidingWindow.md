@@ -40,3 +40,11 @@ void slidingWindow(string s, string t) {
 
 而且，这两个`...`处的操作分别是右移和左移窗口更新操作，它们操作是完全对称的。
 
+
+
+适用题目：
+
+- [3 - 无重复字符的最长子串](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/3%20-%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+- [76 - 最小覆盖子串](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/76%20-%20Minimum%20Window%20Substring.md)
+- [438 - 找到字符串中所有字母异位词](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/438%20-%20Find%20All%20Anagrams%20in%20a%20String.md)
+- [567 - 字符串的排列 ](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/567%20-%20Permutation%20in%20String.md)
