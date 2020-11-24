@@ -122,9 +122,12 @@
 	
 * #### 3.3  [String](https://github.com/MagicalPiggy/leetcode/tree/master/Hard/String) 
 	* [10 - 正则表达式匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/10%20-%20Regular%20Expression%20Matching.md)
+	* [44 - 通配符匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/44%20-%20Wildcard%20Matching.md)
 	* [76 - 最小覆盖子串](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/76%20-%20Minimum%20Window%20Substring.md)
 * #### 3.4  [DP]
 	* [10 - 正则表达式匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/10%20-%20Regular%20Expression%20Matching.md)
+	* [44 - 通配符匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/44%20-%20Wildcard%20Matching.md)
+
 
 ### 	[4.SwordToOffer](https://github.com/MagicalPiggy/leetcode/tree/master/SwordToOffer)
 * #### 4.1 [String]
