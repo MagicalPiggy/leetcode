@@ -126,6 +126,7 @@
 	* [10 - 正则表达式匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/10%20-%20Regular%20Expression%20Matching.md)
 	* [44 - 通配符匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/44%20-%20Wildcard%20Matching.md)
 	* [76 - 最小覆盖子串](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/76%20-%20Minimum%20Window%20Substring.md)
+	* [340 - 至多包含 K 个不同字符的最长子串](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/340%20-%20Longest%20Substring%20with%20at%20most%20k-distinct%20characters.md)
 * #### 3.4  [DP]
 	* [10 - 正则表达式匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/10%20-%20Regular%20Expression%20Matching.md)
 	* [44 - 通配符匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/44%20-%20Wildcard%20Matching.md)

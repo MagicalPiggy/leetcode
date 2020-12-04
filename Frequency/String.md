@@ -13,4 +13,5 @@
 - [567 - 字符串的排列 (?)](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/567%20-%20Permutation%20in%20String.md)
 - [44 - 通配符匹配](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/44%20-%20Wildcard%20Matching.md)
 - [91 - 解码方法](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/String/91%20-%20Decode%20Ways.md)
+- [340 - 至多包含 K 个不同字符的最长子串](https://github.com/MagicalPiggy/leetcode/blob/master/Hard/String/340%20-%20Longest%20Substring%20with%20at%20most%20k-distinct%20characters.md)
 
