@@ -60,6 +60,8 @@
 	* [198 - 打家劫舍](https://github.com/MagicalPiggy/leetcode/blob/master/easy/DP/198%20-%20House%20Robber.md)
 * #### 1.5  [BitOperation](https://github.com/MagicalPiggy/leetcode/tree/master/easy/BitOperation)
 	* [191 - 位1的个数](https://github.com/MagicalPiggy/leetcode/blob/master/easy/BitOperation/191%20-%20Number%20of%201%20Bits.md)
+* #### 1.6  [Math](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Math)
+	* [7 - 翻转整数](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Math/7%20-%20Reverse%20Integer.md)
 
 ### 	[2.Medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
