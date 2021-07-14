@@ -62,6 +62,8 @@
 	* [191 - 位1的个数](https://github.com/MagicalPiggy/leetcode/blob/master/easy/BitOperation/191%20-%20Number%20of%201%20Bits.md)
 * #### 1.6  [Math](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Math)
 	* [7 - 翻转整数](https://github.com/MagicalPiggy/leetcode/blob/master/easy/Math/7%20-%20Reverse%20Integer.md)
+* #### 1.7  [String](https://github.com/MagicalPiggy/leetcode/tree/master/easy/Math)
+	* [415 - 字符串相加](https://github.com/MagicalPiggy/leetcode/blob/master/easy/String/415%20-%20Add%20Strings.md)
 
 ### 	[2.Medium](https://github.com/MagicalPiggy/leetcode/tree/master/Medium)
 * #### 2.1 [Tree](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Tree)
