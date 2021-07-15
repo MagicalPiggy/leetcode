@@ -93,6 +93,7 @@
 	* [148 - 排序链表](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/148%20-%20Sort%20List.md)	
 	* [445 - 两数相加 II](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/LinkedList/445%20-%20Add%20Two%20Numbers%20II.md)
 * #### 2.3  [Array](https://github.com/MagicalPiggy/leetcode/tree/master/Medium/Array) 
+	* [15 - 三数之和](https://github.com/MagicalPiggy/leetcode/blob/6eaf9105310bfcb2f33a0090d1cec0d0be2f7f9e/Medium/Array/15%20-%203%20sums.md)
 	* [945 - 使数组唯一的最小增量](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/945%20-%20Minimum%20Increment%20to%20Make%20Array%20Unique.md)
 	* [1014 - 最佳观光组合](https://github.com/MagicalPiggy/leetcode/blob/master/Medium/Array/1014%20-%20Best%20Sightseeing%20Pair.md)
 * #### 2.4  [DP](https://github.com/MagicalPiggy/leetcode/tree/master/easy/DP) 
